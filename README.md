@@ -33,8 +33,8 @@ Além disso, configure um banco de dados PostgreSQL com as seguintes credenciais
 
 ## Instalação
 
-- git clone https://github.com/seu-usuario/cliente-api.git
+- git clone https://github.com/giovana-narumi-nakagawa/Desenvolvimento-de-API-RESTful-de-CRUD-para-Cadastro-de-Clientes.git
 
-- cd cliente-api
+- cd Desenvolvimento-de-API-RESTful-de-CRUD-para-Cadastro-de-Clientes
 
 - npm install
